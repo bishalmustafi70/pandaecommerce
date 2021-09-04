@@ -1,0 +1,67 @@
+.bg-color{
+    background-color: #FCEAE8;
+}
+.banner-padding{
+    margin-top: 80px;
+   
+
+}
+.price{
+    color: #FE6BA0;
+}
+.button-color{
+    background-image: linear-gradient( to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.second-bar{
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+}
+.second-bar img{
+    width: 100px;
+    
+}
+.cat1{
+    background-image: linear-gradient(to bottom, #8CC63F 0%, #22B573 100%);
+}
+.cat2{
+    background-image: linear-gradient(to bottom, #FBB03B 0%, #F15A24 100%);
+}
+.cat3{
+    
+    background-image: linear-gradient(to bottom, #2E3192 0%, #29ABE2 100%);
+
+}
+.cat1, .cat2, .cat3 {
+ padding: 10px 30px;
+ border-radius: 10px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    
+}
+
+.cat9{
+    margin-bottom: 100px;
+
+}
+.sub{
+    height: 300px;
+    background-color: #FCEAE8;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+.fotter{
+    color: dimgray;
+    text-align: center;
+}
